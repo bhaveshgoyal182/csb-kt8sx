@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://bhaveshgoyal182.github.io/csb-kt8sx/static/css/main.3696b474.chunk.css",
+    "main.js": "https://bhaveshgoyal182.github.io/csb-kt8sx/static/js/main.d5df877c.chunk.js",
+    "main.js.map": "https://bhaveshgoyal182.github.io/csb-kt8sx/static/js/main.d5df877c.chunk.js.map",
+    "runtime-main.js": "https://bhaveshgoyal182.github.io/csb-kt8sx/static/js/runtime-main.e3b7619d.js",
+    "runtime-main.js.map": "https://bhaveshgoyal182.github.io/csb-kt8sx/static/js/runtime-main.e3b7619d.js.map",
+    "static/js/2.066b47be.chunk.js": "https://bhaveshgoyal182.github.io/csb-kt8sx/static/js/2.066b47be.chunk.js",
+    "static/js/2.066b47be.chunk.js.map": "https://bhaveshgoyal182.github.io/csb-kt8sx/static/js/2.066b47be.chunk.js.map",
+    "index.html": "https://bhaveshgoyal182.github.io/csb-kt8sx/index.html",
+    "static/css/main.3696b474.chunk.css.map": "https://bhaveshgoyal182.github.io/csb-kt8sx/static/css/main.3696b474.chunk.css.map",
+    "static/js/2.066b47be.chunk.js.LICENSE.txt": "https://bhaveshgoyal182.github.io/csb-kt8sx/static/js/2.066b47be.chunk.js.LICENSE.txt",
+    "static/media/rock.364303f9.jpg": "https://bhaveshgoyal182.github.io/csb-kt8sx/static/media/rock.364303f9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3b7619d.js",
+    "static/js/2.066b47be.chunk.js",
+    "static/css/main.3696b474.chunk.css",
+    "static/js/main.d5df877c.chunk.js"
+  ]
+}
